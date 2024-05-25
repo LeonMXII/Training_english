@@ -1,0 +1,10 @@
+test.json
+test.txt
+.venv/
+.idea/
+__pycache__/
+
+
+
+
+
